@@ -1,0 +1,11 @@
+colorama
+pymysql
+discord
+discord.py
+discord-ext-bot
+captcha
+json
+random
+asyncio
+requests
+jishaku
