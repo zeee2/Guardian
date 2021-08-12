@@ -46,5 +46,5 @@ If there's any issues during setup, feel free to post an issue.
 
 ##  LICENSE
 
-This project is licensed under the [MIT License](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)). 
+This project is licensed under the [GNU General Public License v3 (GPL-3)](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)). 
 Please see [the license file](LICENSE) for more information.
