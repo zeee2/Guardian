@@ -40,7 +40,13 @@ If there's any issues during setup, feel free to post an issue.
 ## Example
 
 [My Discord Server](https://discord.nerina.moe)
+
+
+
 [Invite Gurdian Bot With Minimal Permissions](https://discord.com/oauth2/authorize?client_id=852955874456764459&scope=bot&permissions=2416307280)
+
+
+
 [Invite Gurdian Bot With Administrator Permission](https://discord.com/oauth2/authorize?client_id=852955874456764459&scope=bot&permissions=8)
   
 
